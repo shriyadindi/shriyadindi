@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shriya!
 - 👀 I’m interested in Front end web development 
-- 🌱 I’m currently learning React JS
 - 📫 You can reach me on "dindishriya@gmail.com"
 
 <!---
