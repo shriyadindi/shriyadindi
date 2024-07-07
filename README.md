@@ -12,6 +12,7 @@ Please do not hesitate to reach out to me for a discussion on potential collabor
 - 👀 I’m interested in Front end web development and UI/UX designing
 - 👯 I want to collaborate on web projects
 - 💬 Ask me about Front End Dev
+- Know more about me here[https://drive.google.com/file/d/1cAiiM5b8Add9-bJgQE6yBmJASI6caDIb/view?usp=sharing](url)
 - 📫 You can reach me at "dindishriya@gmail.com"
 
 <!---
