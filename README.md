@@ -1,3 +1,4 @@
+Hi there 👋, My name is Shriya Dindi
 - 👋 Hi, I’m Shriya!
 - 👀 I’m interested in Front end web development and UI/UX designing
 - 📫 You can reach me at "dindishriya@gmail.com"
