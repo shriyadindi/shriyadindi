@@ -1,7 +1,13 @@
 <h1 align="center">Hi there👋, I'm Shriya :)</h1>
 <h3 align="center">AI/Ml | Frontend development | Data science</h3>
 
-&nsbp;&nsbp;&nsbp;&nsbp;&nsbp;<img src="shriya github.gif" alt="This is an animated gif image, but it does not move" align="center" />
+<img src="shriya github.gif" alt="This is an animated gif image, but it does not move" class="center" />
+<style>
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+</style>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriyadindi" alt="shriyadindi" /></a> </p>
 
