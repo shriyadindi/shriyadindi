@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Shriya :)</h1>
 <h3 align="center">AI/Ml | Frontend development | Data science</h3>
 
-<center>
+<p align="center">
 <img src="shriya github.gif" alt="This is an animated gif image, but it does not move"/>
-</center>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriyadindi" alt="shriyadindi" /></a> </p>
 
