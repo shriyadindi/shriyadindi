@@ -4,6 +4,7 @@
 <p align="center">
 <img src="shriya github.gif" alt="This is an animated gif image, but it does not move"/>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyadindi&" alt="shriyadindi" /></p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriyadindi" alt="shriyadindi" /></a> </p>
 
