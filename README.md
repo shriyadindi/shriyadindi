@@ -4,7 +4,7 @@
 <p align="center">
 <img src="shriya github.gif" alt="This is an animated gif image, but it does not move"/>
 </p>
-
+<br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyadindi&" alt="shriyadindi" /></p>
 
 
