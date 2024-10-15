@@ -1,5 +1,7 @@
-<h1 align="center">Hie!!! I'm Shriya :)</h1>
+<h1 align="center">Hi there ! I'm Shriya :)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+![1_A_M_Study_Session_lofi_hip_hop_chill_beats](https://github.com/user-attachments/assets/7892cf62-9936-4f22-88ed-25a0712b58b1)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriyadindi&label=Profile%20views&color=0e75b6&style=flat" alt="shriyadindi" /> </p>
 
