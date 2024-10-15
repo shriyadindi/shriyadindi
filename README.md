@@ -1,8 +1,7 @@
 <h1 align="center">Hi there ! I'm Shriya :)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![1_A_M_Study_Session_lofi_hip_hop_chill_beats](https://github.com/user-attachments/assets/7892cf62-9936-4f22-88ed-25a0712b58b1)
 
-
+<img src="shriya github.gif" alt="This is an animated gif image, but it does not move"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriyadindi&label=Profile%20views&color=0e75b6&style=flat" alt="shriyadindi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriyadindi" alt="shriyadindi" /></a> </p>
