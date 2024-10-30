@@ -55,7 +55,7 @@
 </div>
 ## hacktoberfest'24 Badges 🏆
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://github.com/shriyadindi/shriyadindi/blob/main/Screenshot%202024-10-29%20110630.png?raw=true" width="100px" height="100px" />
+<img src="https://github.com/shriyadindi/shriyadindi/blob/main/Screenshot%202024-10-29%20110630.png?raw=true"/>
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyadindi&show_icons=true&locale=en&layout=compact" alt="shriyadindi" /></p>
 
