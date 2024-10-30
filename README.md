@@ -53,6 +53,10 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="155px" height="155px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="150px" height="150px" /></a>
 </div>
+## hacktoberfest'24 Badges 🏆
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://github.com/shriyadindi/shriyadindi/blob/main/Screenshot%202024-10-29%20110630.png?raw=true" width="100px" height="100px" />
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyadindi&show_icons=true&locale=en&layout=compact" alt="shriyadindi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriyadindi&show_icons=true&locale=en" alt="shriyadindi" /></p>
