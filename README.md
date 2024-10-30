@@ -63,12 +63,12 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyadindi&show_icons=true&locale=en&layout=compact" 
       alt="Top Languages" 
-      style="width: 200px; height: 100px;"
+      style="width: 300px; height: 150px;"
     />
     <img 
       src="https://github-readme-stats.vercel.app/api?username=shriyadindi&show_icons=true&locale=en" 
       alt="GitHub Stats" 
-      style="width: 250px; height: 150px;" 
+      style="width: 300px; height: 150px;" 
     />
   </div>
 
