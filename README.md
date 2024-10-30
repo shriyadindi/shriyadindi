@@ -59,7 +59,9 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/shriyadindi/shriyadindi/blob/main/Screenshot%202024-10-29%20110630.png?raw=true"/>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyadindi&show_icons=true&locale=en&layout=compact" alt="shriyadindi" /></p>
+<div style="text-align: center; margin: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyadindi&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border: 2px solid #ddd; border-radius: 10px; margin-bottom: 20px;" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=shriyadindi&show_icons=true&locale=en" alt="GitHub Stats" style="border: 2px solid #ddd; border-radius: 10px;" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriyadindi&show_icons=true&locale=en" alt="shriyadindi" /></p>
-</p>
