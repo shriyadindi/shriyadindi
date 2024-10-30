@@ -59,17 +59,22 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/shriyadindi/shriyadindi/blob/main/Screenshot%202024-10-29%20110630.png?raw=true"/>
 </div>
-<div style="text-align: center; margin: 20px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyadindi&show_icons=true&locale=en&layout=compact" 
-    alt="Top Languages" 
-    style="border: 2px solid #ddd; border-radius: 10px; margin-bottom: 20px;" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shriyadindi&show_icons=true&locale=en" 
-    alt="GitHub Stats" 
-    style="border: 2px solid #ddd; border-radius: 10px;" 
-  />
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px;">
+  <div style="background-color: #1e1e1e; border-radius: 10px; overflow: hidden;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyadindi&show_icons=true&locale=en&layout=compact" 
+      alt="Top Languages" 
+      style="width: 300px; height: 150px;" 
+    />
+  </div>
+  <div style="background-color: #1e1e1e; border-radius: 10px; overflow: hidden;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=shriyadindi&show_icons=true&locale=en" 
+      alt="GitHub Stats" 
+      style="width: 300px; height: 150px;" 
+    />
+  </div>
 </div>
+
 
 
