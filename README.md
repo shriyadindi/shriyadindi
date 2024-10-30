@@ -60,19 +60,19 @@
 <img src="https://github.com/shriyadindi/shriyadindi/blob/main/Screenshot%202024-10-29%20110630.png?raw=true"/>
 </div>
 <center>
-<div style="display: flex; justify-content: center; gap: 20px; margin: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px;" margin-left: 50px>
   <div style="background-color: #1e1e1e; border-radius: 10px; overflow: hidden;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyadindi&show_icons=true&locale=en&layout=compact" 
       alt="Top Languages" 
-      style="width: 300px; height: 150px;" 
+      style="width: 500px; height: 250px;"
     />
   </div>
   <div style="background-color: #1e1e1e; border-radius: 10px; overflow: hidden;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=shriyadindi&show_icons=true&locale=en" 
       alt="GitHub Stats" 
-      style="width: 300px; height: 150px;" 
+      style="width: 500px; height: 250px;" 
     />
   </div>
 </div>
