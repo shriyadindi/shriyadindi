@@ -59,24 +59,18 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/shriyadindi/shriyadindi/blob/main/Screenshot%202024-10-29%20110630.png?raw=true"/>
 </div>
-<center>
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px; margin-left: 100px">
-  <div style="background-color: #1e1e1e; border-radius: 10px; overflow: hidden;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyadindi&show_icons=true&locale=en&layout=compact" 
       alt="Top Languages" 
-      style="width: 500px; height: 250px;"
+      style="width: 200px; height: 100px;"
     />
-  </div>
-  <div style="background-color: #1e1e1e; border-radius: 10px; overflow: hidden;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=shriyadindi&show_icons=true&locale=en" 
       alt="GitHub Stats" 
-      style="width: 500px; height: 250px;" 
+      style="width: 200px; height: 100px;" 
     />
   </div>
-</div>
-</center>
 
 
 
