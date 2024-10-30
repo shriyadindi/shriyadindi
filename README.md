@@ -68,7 +68,7 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=shriyadindi&show_icons=true&locale=en" 
       alt="GitHub Stats" 
-      style="width: 300px; height: 150px;" 
+      style="width: 300px; height: 180px;" 
     />
   </div>
 
