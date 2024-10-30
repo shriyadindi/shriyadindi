@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="150px" height="150px" /></a>
 </div>
 
-##Hacktoberfest'24 Badges 🏆
+## Hacktoberfest'24 Badges 🏆
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/shriyadindi/shriyadindi/blob/main/Screenshot%202024-10-29%20110630.png?raw=true"/>
 </div>
