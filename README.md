@@ -59,6 +59,7 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/shriyadindi/shriyadindi/blob/main/Screenshot%202024-10-29%20110630.png?raw=true"/>
 </div>
+<center>
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px;">
   <div style="background-color: #1e1e1e; border-radius: 10px; overflow: hidden;">
     <img 
@@ -75,6 +76,7 @@
     />
   </div>
 </div>
+</center>
 
 
 
