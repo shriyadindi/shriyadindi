@@ -5,7 +5,10 @@
 <img src="shriya github.gif" alt="This is an animated gif image, but it does not move"/>
 </p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shriyadindi&theme=dark" alt="shriyadindi" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shriyadindi&theme=dark" alt="shriyadindi" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shriyadindi&theme=github_dark" />
+</p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriyadindi" alt="shriyadindi" /></a> </p>
