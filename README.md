@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shriyadindi&theme=dark" alt="shriyadindi" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shriyadindi&theme=github_dark" />
   <br>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shriyadindi&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shriyadindi&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shriyadindi&theme=github_dark"/>
 </p>
 
