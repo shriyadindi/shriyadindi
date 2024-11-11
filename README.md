@@ -6,7 +6,7 @@
 </p>
 <br>
 <p align="center">
-  <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shriyadindi&theme=dark" alt="shriyadindi" /><div>
+  <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shriyadindi&theme=dark" alt="shriyadindi" /></div>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shriyadindi&theme=github_dark" />
   <br>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shriyadindi&theme=github_dark" />
