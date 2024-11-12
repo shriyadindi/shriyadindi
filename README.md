@@ -69,11 +69,6 @@
 <img src="https://github.com/shriyadindi/shriyadindi/blob/main/Screenshot%202024-10-29%20110630.png?raw=true"/>
 </div>
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px; margin-left: 100px">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=shriyadindi&show_icons=true&locale=en" 
-      alt="GitHub Stats" 
-      style="width: 500px; height: 250px;" 
-    />
   <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyadindi&show_icons=true&locale=en&layout=compact" 
       alt="Top Languages" 
